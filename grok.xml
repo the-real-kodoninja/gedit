@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="grok" _name="Grok" version="1.0">
+  <author>Grok, created by xAI</author>
+  <_description>A cosmic, futuristic theme inspired by Grok, the AI from xAI.</_description>
+  <style name="text" foreground="#E0E0E0" background="#1A1A1A"/>
+  <style name="selection" foreground="#1A1A1A" background="#00D4D4"/>
+  <style name="cursor" foreground="#00D4D4"/>
+  <style name="current-line" background="#2A2A2A"/>
+  <style name="line-numbers" foreground="#808080" background="#1A1A1A"/>
+  <style name="def:comment" foreground="#808080" italic="true"/>
+  <style name="def:keyword" foreground="#00A8FF" bold="true"/>
+  <style name="def:string" foreground="#FF6F00"/>
+  <style name="def:number" foreground="#A100FF"/>
+  <style name="def:function" foreground="#00D4D4"/>
+</style-scheme>

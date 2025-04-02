@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Grok
+Comment=A cosmic theme inspired by Grok from xAI
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Grok
+MetacityTheme=Grok

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="grok" _name="Grok" version="1.0">
+  <author>Grok, created by xAI</author>
+  <_description>A cosmic, futuristic theme inspired by Grok, the AI from xAI.</_description>
+
+  <!-- Global Settings -->
+  <style name="text" foreground="#E0E0E0" background="#1A1A1A"/>
+  <style name="selection" foreground="#1A1A1A" background="#00D4D4"/>
+  <style name="cursor" foreground="#00D4D4"/>
+  <style name="current-line" background="#2A2A2A"/>
+  <style name="line-numbers" foreground="#808080" background="#1A1A1A"/>
+
+  <!-- Syntax Highlighting -->
+  <style name="def:comment" foreground="#808080" italic="true"/>
+  <style name="def:keyword" foreground="#00A8FF" bold="true"/>
+  <style name="def:string" foreground="#FF6F00"/>
+  <style name="def:number" foreground="#A100FF"/>
+  <style name="def:function" foreground="#00D4D4"/>
+  <style name="def:constant" foreground="#A100FF"/>
+  <style name="def:preprocessor" foreground="#FF6F00" bold="true"/>
+  <style name="def:error" foreground="#FF0000" background="#331A1A"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match" foreground="#E0E0E0" background="#0066CC" bold="true"/>
+  <style name="bracket-mismatch" foreground="#E0E0E0" background="#FF3333"/>
+</style-scheme>

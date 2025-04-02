@@ -1,0 +1,43 @@
+* {
+    background-color: #1A1A1A;
+    color: #E0E0E0;
+    border-color: #333333;
+    outline: none;
+}
+
+window {
+    background-color: #1A1A1A;
+}
+
+headerbar, .titlebar {
+    background-color: #2A2A2A;
+    color: #E0E0E0;
+    border: none;
+    box-shadow: none;
+}
+
+button {
+    background-color: #333333;
+    color: #E0E0E0;
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    background-color: #555555;
+    color: #E0E0E0;
+    border: none;
+    outline: none;
+}
+
+entry {
+    background-color: #2A2A2A;
+    color: #E0E0E0;
+    border: none;
+    outline: none;
+}
+
+*:focus {
+    outline: none;
+    box-shadow: none;
+}
